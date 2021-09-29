@@ -14,7 +14,7 @@
 </div><br>
 <div>
   <a href="https://github.com/foxtryan">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=foxtryan&show_icons=ture&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxtryan&layout=compact&langs_count=8&theme=dark"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=foxtryan&show_icons=ture&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxtryan&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
