@@ -14,7 +14,7 @@
 </div><br> -->
 <div>
   <a href="https://github.com/foxtryan">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=foxtryan&show_icons=ture&custom_title=Dados+do+GitHub+de+Rafael+Muller&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="168em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=foxtryan&show_icons=ture&custom_title=Dados+do+GitHub+de+Rafael+Muller&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="168em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=foxtryan&custom_title=Linguagens+mais+usadas:&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </div>
 
